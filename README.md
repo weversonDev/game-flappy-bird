@@ -35,7 +35,7 @@ Clone do game Flappy Bird para demonstrar os conhecimentos de manipulação de e
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.udemy.com/course/curso-web/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.cod3r.com.br/).
 
 ## :memo: Licença
 
